@@ -22,7 +22,7 @@ Thank you for your interest in contributing to this project! To ensure a smooth 
 We strive for clean, readable, and reproducible code. Please adhere to the following rules:
 
 ### 1. Style & Formatting
-* **PEP 8 Compliance:** Follow standard Python style guidelines. Use tools like `flake8` or `black` to format your code before committing.
+* **PEP 8 Compliance:** Follow standard Python style guidelines.
 * **Notebooks vs. Scripts:**
     * If submitting a **Jupyter Notebook**, ensure all cells are run in order and the output is visible.
     * Remove unused code cells or large commented-out blocks before submitting.
